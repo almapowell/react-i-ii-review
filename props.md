@@ -3,14 +3,19 @@
 Answer these on your own, then compare answers as a group
 
 1.  What are props?
+A prop is a way of transferring code from a parent to a child.
 
 2.  How do you pass props from a parent to a child?
+name={this.prop.moving}
 
 3.  How do you access props from a class based child component?
+By importing and placing prop in the perameter in constructor and super.
 
 4.  How do you access props from a functional component?
 
+
 5.  How do you bind a function to a parent component so that it can be passed to a child?
+Arrow function.
 
 ### Understand
 
